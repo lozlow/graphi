@@ -1,0 +1,29 @@
+{
+  "name": "graphi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-koa": "^1.3.2",
+    "graphql": "^0.12.3",
+    "graphql-tools": "^2.14.1",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^3.1.0",
+    "koa-router": "^7.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lozlow/graphi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lozlow/graphi/issues"
+  },
+  "homepage": "https://github.com/lozlow/graphi#readme",
+  "description": ""
+}
